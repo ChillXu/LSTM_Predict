@@ -89,5 +89,4 @@ LRU算法基于一种假设：长期不被使用的数据，在未来被用到�
 LRU消耗CPU资源较少，LFU消耗CPU资源较多。
 
 
-
-[字节跳动｜后端｜提前批｜一面+二面+三面+HR 面 - 力扣（LeetCode）](
+[字节跳动｜后端｜提前批｜一面+二面+三面+HR 面 - 力扣（LeetCode）](https://leetcode.cn/circle/discuss/MDq50z/)
